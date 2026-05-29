@@ -1,0 +1,13 @@
+# SVLA Research Project — Requirements
+# Paper: "SVLA: A Unified Speech-Vision-Language Assistant
+#         with Multimodal Reasoning and Speech Generation"
+# Authors: Huynh et al., Deakin University / MBZUAI / TII
+#
+# Install: pip install -r requirements.txt
+
+anthropic>=0.25.0
+gradio>=4.0.0
+gtts>=2.3.0
+SpeechRecognition>=3.10.0
+Pillow>=10.0.0
+requests>=2.31.0
